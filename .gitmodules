@@ -1,0 +1,3 @@
+[submodule "vue3-express-mongo"]
+	path = vue3-express-mongo
+	url = https://github.com/oleg79/vue3-express-mongo.git

@@ -4,4 +4,3 @@
 [submodule "afepy"]
 	path = afepy
 	url = https://github.com/oleg79/afepy.git
-	branch = afepy

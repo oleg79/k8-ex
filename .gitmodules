@@ -1,3 +1,7 @@
 [submodule "vue2-express-mongo"]
 	path = vue2-express-mongo
 	url = https://github.com/oleg79/vue2-express-mongo.git
+[submodule "afepy"]
+	path = afepy
+	url = https://github.com/oleg79/afepy.git
+	branch = afepy
